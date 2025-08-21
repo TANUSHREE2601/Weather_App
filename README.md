@@ -21,6 +21,7 @@ A simple and responsive weather application built with **React** that allows use
   alt="Image1" width="300"/>
   <img src="./src/assets/Screenshot 2025-08-21 231125.png"
    alt="image2" width="300"/>
-  <img src="./src/assets/Screenshot 2025-08-21 231221.png" alt="image3" width="300"/>
+  <img src="./src/assets/Screenshot 2025-08-21 231221.png"
+    alt="image3" width="300"/>
 </p>
 
