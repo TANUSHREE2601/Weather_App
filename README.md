@@ -13,7 +13,7 @@ A simple and responsive weather application built with **React** that allows use
 - **React.js**  
 - **JavaScript (ES6+)**  
 - **HTML5 & CSS3**    
-- **API:** [OpenWeatherMap API] (https://openweathermap.org/api)  
+- **API:** OpenWeatherMap API (https://openweathermap.org/api)  
 
 ## 📸 Screenshots
 <p align="center">
