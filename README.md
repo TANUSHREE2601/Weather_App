@@ -17,11 +17,11 @@ A simple and responsive weather application built with **React** that allows use
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./src/assets/Screenshot 2025-08-21 231049.png"
+  <img src="./src/assets/ss1.png"
   alt="Image1" width="300"/>
-  <img src="./src/assets/Screenshot 2025-08-21 231125.png"
+  <img src="./src/assets/ss2.png"
    alt="image2" width="300"/>
-  <img src="./src/assets/Screenshot 2025-08-21 231221.png"
+  <img src="./src/assets/ss3.png"
     alt="image3" width="300"/>
 </p>
 
